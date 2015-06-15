@@ -1,0 +1,20 @@
+{
+  "name": "fullstack-tp8",
+  "version": "1.0.0",
+  "description": "HTTP de arch estáticos con Node.js.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/godenz/fullstack-tp8.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/godenz/fullstack-tp8/issues"
+  },
+  "homepage": "https://github.com/godenz/fullstack-tp8"
+}
